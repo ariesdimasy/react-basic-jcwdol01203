@@ -7,5 +7,6 @@ export default function Hero() {
         <Button type="button-success" >Click Me</Button>
         <Button type="button-danger" >Click Me</Button>
         <Button >Click Me</Button>
+        <div> Buy this product </div>
     </section>)
 }
